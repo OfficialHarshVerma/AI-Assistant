@@ -1,0 +1,42 @@
+# Python environments and cache
+
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secrets and local configuration
+
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Generated builds and packaging output
+
+build/
+dist/
+
+# Large local models and runtime binaries
+
+models/
+llama/
+
+# Generated transcripts, audio, and vector indexes
+
+audio_files/*
+!audio_files/.gitkeep
+transcript_files/*
+!transcript_files/.gitkeep
+vector_storage/
+
+# Local diagnostics and test files
+
+check_ocr_deps.py
+ocr_test*

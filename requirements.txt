@@ -1,0 +1,37 @@
+
+# Desktop interface
+PySide6
+
+# LLM orchestration and retrieval
+langchain
+langchain-core
+langchain-community
+langchain-classic
+langchain-text-splitters
+langchain-huggingface
+langchain-openai
+langchain-groq
+faiss-cpu
+
+# Embeddings and local ML models
+sentence-transformers
+transformers
+torch
+
+# Video transcription and downloading
+openai-whisper
+yt-dlp
+youtube-transcript-api
+
+# PDF and OCR
+PyMuPDF
+paddleocr
+paddlepaddle
+paddlex
+Pillow
+pytesseract
+
+# Web search and environment configuration
+tavily-python
+python-dotenv
+requests
