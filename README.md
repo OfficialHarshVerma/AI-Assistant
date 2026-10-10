@@ -1,4 +1,4 @@
-\AI Assistant — Your Local Files, One Conversation Away
+AI Assistant — Your Local Files, One Conversation Away
 
 
 
@@ -10,7 +10,7 @@ The application combines Retrieval-Augmented Generation (RAG), local language mo
 
 
 
-\## What Can You Do With It?
+What Can You Do With It?
 
 
 
