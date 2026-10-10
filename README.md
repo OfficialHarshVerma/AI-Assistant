@@ -1,4 +1,4 @@
-\# AI Assistant — Your Local Files, One Conversation Away
+\AI Assistant — Your Local Files, One Conversation Away
 
 
 
